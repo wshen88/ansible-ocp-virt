@@ -1,5 +1,5 @@
 ---
 plugin: redhat.openshift_virtualization.kubevirt
 host: https://api.ocp4.example.com:6443
-api_key: sha256~nrfmbSUrMBPbcR_1h1O4rbJKMQ70bmaW3fwsLq55vSw
+api_key: sha256~zUMEdRaKlt0PIgsY5H1MDMlaNivzDQUk3-TDhFX8bxE
 validate_certs: false
