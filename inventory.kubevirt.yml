@@ -1,7 +1,6 @@
 ---
 plugin: redhat.openshift_virtualization.kubevirt
 host: https://api.ocp4.example.com:6443
-api_key: sha256~wmtY36iio_RAmhJ0AhYPu6WAERbapijfc1QFOsc4GOA
 network_name: "default/public-network-continental-alpaca"
 namespaces:
   - wm-test2
